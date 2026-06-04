@@ -77,6 +77,10 @@ bash migrate.sh
 
 Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
+## Security
+
+To report a vulnerability, please follow the guidelines in [SECURITY.md](SECURITY.md). Do not open a public issue for security-related matters.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
